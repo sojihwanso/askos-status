@@ -13,7 +13,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 **이 단계에서 남은 작업**
 
-- #13 파일 어댑터: CSV 궤적·관측점 (열 매핑) + M1 완료 기준 시험 `크기:M`
+- #13 파일 어댑터: CSV 궤적·관측점 (열 매핑) + M1 완료 기준 시험 `크기:M` · PR #62 검토 중
 - #14 로컬 카탈로그: 자료 목록·출처·요청 범위 기록 `크기:M`
 
 ## 단계별 진행
@@ -45,4 +45,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 없음
 
 ---
-<sub>마지막 갱신: 2026-10-21 20:27 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-10-21 20:41 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
