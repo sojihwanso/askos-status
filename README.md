@@ -13,7 +13,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 **이 단계에서 남은 작업**
 
-- #15 앱 기본 화면 골격 `크기:M`
+- #15 앱 기본 화면 골격 `크기:M` · PR #65 검토 중
 - #16 배경 지도: 공개 수심·해안선 + 보유 해도 가져오기(폴더 자동 검색) `크기:M`
 - #17 벡터장 레이어: 화살표·유선·색상 `크기:L`
 - #18 스칼라장 레이어: 색상 지도와 범례 `크기:M`
@@ -54,4 +54,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 없음
 
 ---
-<sub>마지막 갱신: 2026-10-21 21:18 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-10-21 21:47 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
