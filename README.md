@@ -13,7 +13,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 **이 단계에서 남은 작업**
 
-- #10 규약 통일 계층: u/v 벡터, 방향 규약, 단위, UTC `크기:M`
+- #10 규약 통일 계층: u/v 벡터, 방향 규약, 단위, UTC `크기:M` · PR #58 검토 중
 - #11 시공간 질의 인터페이스와 보간 `크기:L`
 - #12 파일 어댑터: NetCDF(CF 규약), GRIB `크기:M`
 - #13 파일 어댑터: CSV 관측점·궤적 (열 매핑 설정) `크기:M`
@@ -48,4 +48,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 없음
 
 ---
-<sub>마지막 갱신: 2026-10-20 12:51 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-10-21 19:12 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
