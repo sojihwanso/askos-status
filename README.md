@@ -20,7 +20,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 - #20 레이어 패널: 켜기/끄기, 순서, 투명도, 설정 저장 `크기:M`
 - #40 궤적 레이어: 외부 계산 결과 불러오기·재생 (실측 선, 시뮬레이션 입자 구름) `크기:L`
 - #53 [결정] 연구자 실제 출력 형식 확인과 임시 샘플 교체 `크기:S`
-- #64 Windows 한글 경로의 NetCDF 열기 (netCDF4 경로 문제) `크기:M`
+- #64 Windows 한글 경로의 NetCDF 열기 (netCDF4 경로 문제) `크기:M` · PR #66 검토 중
 
 함께 진행 중인 단계: M3 자료 획득 연결 (5%)
 
@@ -53,4 +53,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 없음
 
 ---
-<sub>마지막 갱신: 2026-10-21 22:49 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-10-21 23:01 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
