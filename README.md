@@ -13,7 +13,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 **이 단계에서 남은 작업**
 
-- #83 색 지도·u/v 격자: 화면 가장자리 빈 띠, 확대 15에서 사라짐 `크기:S`
+- #83 색 지도·u/v 격자: 화면 가장자리 빈 띠, 확대 15에서 사라짐 `크기:S` · PR #85 검토 중
 
 함께 진행 중인 단계: M3 자료 획득 연결 (5%)
 
@@ -46,4 +46,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 - #53 [결정] 연구자 실제 출력 형식 확인과 임시 샘플 교체 → **M6 v1.0 배포** (M5 완료 후)
 
 ---
-<sub>마지막 갱신: 2026-10-28 21:07 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-10-28 21:18 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
