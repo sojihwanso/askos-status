@@ -13,7 +13,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 **이 단계에서 남은 작업**
 
-- #21 [결정] 파랑 자료 출처와 필요한 변수 (Copernicus 파랑 실험 포함) `크기:M`
+- #21 [결정] 파랑 자료 출처와 필요한 변수 (Copernicus 파랑 실험 포함) `크기:M` · PR #86 검토 중
 - #22 커넥터 공통 규격 `크기:M`
 - #23 NOSC OPeNDAP 커넥터 (부분 요청 + 통째 받기) `크기:L`
 - #24 Copernicus Marine 커넥터 (계정 로그인 포함) `크기:M`
@@ -50,4 +50,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 - #53 [결정] 연구자 실제 출력 형식 확인과 임시 샘플 교체 → **M6 v1.0 배포** (M5 완료 후)
 
 ---
-<sub>마지막 갱신: 2026-10-29 10:40 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-10-29 10:59 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
