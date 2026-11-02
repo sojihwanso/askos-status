@@ -13,7 +13,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 **이 단계에서 남은 작업**
 
-- #36 사용 설명서와 예제 데이터 `크기:L`
+- #36 사용 설명서와 예제 데이터 `크기:L` · PR #125 검토 중
 - #38 첫 사용 연구자 시험 사용과 피드백 반영 `크기:M`
 - #53 [결정] 연구자 실제 출력 형식 확인과 임시 샘플 교체 `크기:S`
 
@@ -39,4 +39,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 없음
 
 ---
-<sub>마지막 갱신: 2026-11-03 00:15 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-11-03 01:34 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
