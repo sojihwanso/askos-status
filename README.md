@@ -14,7 +14,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 **이 단계에서 남은 작업**
 
 - #31 시간·영역 선택 (지도에서 그리기) `크기:M`
-- #32 내보내기 형식: CSV, NetCDF(CF), MAT `크기:M`
+- #32 내보내기 틀: 쓰기 넷(MAT v5·v7.3·CSV·NetCDF)과 출처·처리 이력 (#34 합침) `크기:L`
 - #33 자료 구조 템플릿: 열·이름·단위·시간 표기·행 구조, 저장·재사용 `크기:M`
 - #34 처리 이력·출처 메타데이터 첨부 `크기:S`
 - #41 궤적을 따라 환경값 추출 `크기:M`
@@ -49,4 +49,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 - #23 NOSC OPeNDAP 커넥터 (부분 요청 + 통째 받기) → **M6 v1.0 배포** (M5 완료 후)
 
 ---
-<sub>마지막 갱신: 2026-11-02 11:23 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-11-02 11:30 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
