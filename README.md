@@ -14,7 +14,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 **이 단계에서 남은 작업**
 
 - #31 시간·영역 선택 (지도에서 그리기) `크기:M`
-- #33 내보내기 템플릿: 설정과 열 규칙 저장·재사용, CSV 시각 표기(MATLAB readtable) `크기:M`
+- #33 내보내기 템플릿: 설정과 열 규칙 저장·재사용, CSV 시각 표기(MATLAB readtable) `크기:M` · PR #119 검토 중
 
 ## 단계별 진행
 
@@ -45,4 +45,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 - #23 NOSC OPeNDAP 커넥터 (부분 요청 + 통째 받기) → **M6 v1.0 배포** (M5 완료 후)
 
 ---
-<sub>마지막 갱신: 2026-11-02 14:08 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-11-02 14:35 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
