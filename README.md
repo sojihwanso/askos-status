@@ -13,7 +13,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 **이 단계에서 남은 작업**
 
-- #35 독립 실행 앱 패키징 `크기:L`
+- #35 독립 실행 앱 패키징 `크기:L` · PR #123 검토 중
 - #36 사용 설명서와 예제 데이터 `크기:L`
 - #37 크레딧(출처) 화면 `크기:S`
 - #38 첫 사용 연구자 시험 사용과 피드백 반영 `크기:M`
@@ -41,4 +41,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 없음
 
 ---
-<sub>마지막 갱신: 2026-11-02 21:11 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-11-02 22:36 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
