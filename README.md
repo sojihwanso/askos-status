@@ -15,7 +15,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 - #31 시간·영역 선택 (지도에서 그리기) `크기:M`
 - #33 자료 구조 템플릿: 열·이름·단위·시간 표기·행 구조, 저장·재사용 `크기:M`
-- #41 궤적 따라 값 뽑기와 내보내기 창 (첫 판) `크기:L`
+- #41 궤적 따라 값 뽑기와 내보내기 창 (첫 판) `크기:L` · PR #118 검토 중
 
 ## 단계별 진행
 
@@ -46,4 +46,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 - #23 NOSC OPeNDAP 커넥터 (부분 요청 + 통째 받기) → **M6 v1.0 배포** (M5 완료 후)
 
 ---
-<sub>마지막 갱신: 2026-11-02 13:09 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-11-02 13:51 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
