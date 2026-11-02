@@ -14,7 +14,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 **이 단계에서 남은 작업**
 
 - #30 원본/처리본 전환과 이상 지점 표시 `크기:S`
-- #110 시간 간격 맞추기와 규칙 격자로 바꾸기 (resample_time·regrid) `크기:L`
+- #110 시간 간격 맞추기와 규칙 격자로 바꾸기 (resample_time·regrid) `크기:L` · PR #112 검토 중
 
 ## 단계별 진행
 
@@ -46,4 +46,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 - #23 NOSC OPeNDAP 커넥터 (부분 요청 + 통째 받기) → **M6 v1.0 배포** (M5 완료 후)
 
 ---
-<sub>마지막 갱신: 2026-11-02 09:47 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-11-02 10:10 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
