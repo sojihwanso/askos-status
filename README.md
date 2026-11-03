@@ -15,7 +15,7 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 
 - #38 첫 사용 연구자 시험 사용과 피드백 반영 `크기:M`
 - #53 [결정] 연구자 실제 출력 형식 확인과 임시 샘플 교체 `크기:S`
-- #128 연구자 판 1.0.0b3: 설명서를 화면 동선에 맞추기, Sandbox 설치 시험 `크기:M`
+- #128 연구자 판 1.0.0b3: 설명서를 화면 동선에 맞추기, Sandbox 설치 시험 `크기:M` · PR #132 검토 중
 
 ## 단계별 진행
 
@@ -39,4 +39,4 @@ Askos 개발 진행 상황입니다. 자동으로 갱신됩니다. 코드는 비
 없음
 
 ---
-<sub>마지막 갱신: 2026-11-03 10:25 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
+<sub>마지막 갱신: 2026-11-03 11:27 KST · 자동 생성 문서이니 직접 고치지 마세요 · 계산 방식은 [ROADMAP.md](https://github.com/sojihwanso/askos-status/blob/main/ROADMAP.md) 참고</sub>
